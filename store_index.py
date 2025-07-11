@@ -1,7 +1,6 @@
 
 from src.helper import load_pdf, text_split, download_hugging_face_embeddings
 from langchain_community.vectorstores import Pinecone as LangchainPinecone
-
 from pinecone import Pinecone
 import os
 from dotenv import load_dotenv
