@@ -1,4 +1,7 @@
 # === Python ===
+PINECONE_API_KEY="pcsk_6fgbwK_3NaBsbdUhPN7ZPmUU1QHitCovrtHW7XgBnVuV5ShgvKHVJVkZNdVFFfQk3pDmos"
+PINECONE_API_ENV = "aped-4627-b74a"
+
 __pycache__/
 *.py[cod]
 *.so
