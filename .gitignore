@@ -1,0 +1,57 @@
+# === Python ===
+__pycache__/
+*.py[cod]
+*.so
+*.pyd
+*.pyo
+*.egg-info/
+*.egg
+*.log
+
+# === Environments ===
+.env
+.venv/
+env/
+venv/
+mchatbot/
+*.env
+
+# === Jupyter Notebooks ===
+trials.ipynb
+
+# === VSCode ===
+.vscode/
+*.code-workspace
+
+# === System Files ===
+.DS_Store
+Thumbs.db
+
+# === PyInstaller ===
+*.spec
+dist/
+build/
+
+# === Hugging Face Transformers Cache ===
+~/.cache/huggingface/
+huggingface_cache/
+**/hf_models/
+**/.cache/
+
+# === LangChain Cache ===
+langchain.db
+*.sqlite3
+
+# === Flask Specific ===
+instance/
+*.db
+
+# === Logs & Debug ===
+*.log
+logs/
+debug.log
+
+# === Misc ===
+*.bak
+*.tmp
+*.swp
